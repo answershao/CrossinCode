@@ -1,0 +1,23 @@
+
+# input
+# currency: int/float
+# stocks: dict
+
+# output
+# currency: int/float
+# total_assets: int/float
+# None
+
+def simple_test():
+    pass
+
+def multi_stocks_test():
+    pass
+
+
+# helper function
+def purchase():
+    pass
+
+def sell():
+    pass
